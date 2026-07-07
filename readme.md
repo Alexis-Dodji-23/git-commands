@@ -25,3 +25,6 @@
 
 ## git checkout
 - Permet de changer de branche
+
+## git pull
+- Permet de récupérer des modifications distantes

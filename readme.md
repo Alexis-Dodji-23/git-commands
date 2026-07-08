@@ -35,7 +35,7 @@
 ## git merge
 - Permet de récupérer des données de la branche secondaire vers le main
 
-## git reset
+## git reset (ESC : wq)
 - Permet de supprimer un commit (ou de revenir à un commit définit par son identifiant)
 
 ## git diff

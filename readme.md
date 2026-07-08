@@ -44,4 +44,11 @@
 ## git clone
 - Permet de récuperer un projet distant en local
 
+## git branch -d
+- Permet de supprimer une branche en locale
+
+## git push origin -d
+- Permet de supprimer une branche distante
+
+
 

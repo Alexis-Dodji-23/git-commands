@@ -28,3 +28,18 @@
 
 ## git pull
 - Permet de récuperer une modification distante
+
+## git rebase
+- Permet de récupérer des données du main vers la branche secondaire
+
+## git merge
+- Permet de récupérer des données de la branche secondaire vers le main
+
+## git reset
+- Permet de supprimer un commit (ou de revenir à un commit définit par son identifiant)
+
+## git diff
+- Permet de comparer deux commits
+
+
+

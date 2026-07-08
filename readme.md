@@ -41,5 +41,7 @@
 ## git diff
 - Permet de comparer deux commits
 
+## git clone
+- Permet de récuperer un projet distant en local
 
 

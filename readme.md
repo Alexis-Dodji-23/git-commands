@@ -29,13 +29,13 @@
 ## git pull
 - Permet de récuperer une modification distante
 
-## git rebase
+## git rebase (ESC : wq)
 - Permet de récupérer des données du main vers la branche secondaire
 
 ## git merge
 - Permet de récupérer des données de la branche secondaire vers le main
 
-## git reset (ESC : wq)
+## git reset 
 - Permet de supprimer un commit (ou de revenir à un commit définit par son identifiant)
 
 ## git diff
